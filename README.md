@@ -35,6 +35,6 @@ Hemingway Editor
 YouTube Content Research
 Basic SEO Understanding
 📩 Contact
-Email: yourmail@gmail.com
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+Email: rafiulislamjob@gmail.com
+GitHub: https://github.com/rafiulislamjob
+LinkedIn: www.linkedin.com/in/md-rafiul-islam-8a5663108
