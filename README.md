@@ -38,3 +38,10 @@ Basic SEO Understanding
 Email: rafiulislamjob@gmail.com
 GitHub: https://github.com/rafiulislamjob
 LinkedIn: www.linkedin.com/in/md-rafiul-islam-8a5663108
+---
+
+### 📂 Sample Scripts
+
+- [Sample Script 1](sample-script-1.md)
+- [Sample Script 2](sample-script-2.md)
+- [Sample Script 3](sample-script-3.md)
